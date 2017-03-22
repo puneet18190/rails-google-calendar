@@ -52,3 +52,6 @@ gem 'figaro', '~> 1.0.0.rc1'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'pry'
+gem 'rails_db_info'
+gem 'google_calendar'

@@ -29,8 +29,8 @@ class User < ActiveRecord::Base
           refresh_token: credentials.refresh_token
        )
       end
-      user.get_google_contacts
-      user.get_google_calendars
+      # user.get_google_contacts
+      # user.get_google_calendars
       user
   end
 
