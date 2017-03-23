@@ -21,3 +21,8 @@
 
 en:
   hello: "Hello world"
+  activity:
+    event:
+      create: 'Article has been created'
+      update: 'Someone has edited the article'
+      destroy: 'Some user removed an article!'
